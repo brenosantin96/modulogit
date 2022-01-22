@@ -7,5 +7,3 @@ meu segundo sistema
 mais uma linha aqui
 
 alterado
-
-mais alteracoes no sistema;
